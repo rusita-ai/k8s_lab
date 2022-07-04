@@ -9,5 +9,5 @@ spec:
   - image: takytaky/app:v1
     name: app-container
     ports:
-    - containerPort: 8080
+    - containerPort: 80
       protocol: TCP
